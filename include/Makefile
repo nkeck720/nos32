@@ -1,0 +1,3 @@
+.PHONY: clean
+clean:
+	@echo Nothing to clean here...
